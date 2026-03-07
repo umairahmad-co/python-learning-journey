@@ -7,7 +7,7 @@ country = 'Pakistan'
 city = 'Lahore'
 age = 25
 is_married = True
-skills = ['Android', 'Laravel', 'Dot Net', 'Php', 'Python']
+skills = ['Android', 'Laravel', 'Dot Net', 'Java', 'Python']
 person_info = {
     'firstname': 'Akbar',
     'lastname': 'Javid',
