@@ -12,7 +12,7 @@ person_info = {
     'firstname': 'Akbar',
     'lastname': 'Javid',
     'country': 'Pakistan',
-    'city': 'Islamabade'
+    'city': 'Multan'
 }
 
 # Printing the values stored in the variables
