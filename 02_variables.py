@@ -15,7 +15,7 @@ person_info = {
     'city': 'Multan'
 }
 
-# Printing the values stored in the variables
+# Printing the values storeing in the variables
 
 print('First name :', first_name)
 print('First name length:', len(first_name))
