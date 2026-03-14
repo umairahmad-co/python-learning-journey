@@ -116,7 +116,7 @@ print('coding' in 'coding for all')
 print('a in an:', 'a' in 'an')      # True
 print('4 is 2 ** 2:', 4 is 2 ** 2)   # True
 
-print(3 > 2 and 4 > 3)  # True - because both statements are true.
+print(3 > 2 and 4 > 3)  # True - because both statements are true
 print(3 > 2 and 4 < 3)  # False - because the second statement is false
 print(3 < 2 and 4 < 3)  # False - because both statements are false
 print(3 > 2 or 4 > 3)  # True - because both statements are true
