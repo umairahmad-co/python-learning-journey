@@ -125,5 +125,5 @@ print(3 < 2 or 4 < 3)  # False - because both statements are false
 print(not 3 > 2)     # False - because 3 > 2 is true, then not True gives False
 print(not True)      # False - Negation, the not operator turns true to false
 print(not False)     # True
-print(not not True)  # True
+print(not not True)   # True
 print(not not False)  # False
