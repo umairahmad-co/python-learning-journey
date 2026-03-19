@@ -63,5 +63,5 @@ elif select == 5:
            avg(number1, number2)) 
     
 else:
-     print("Invalid operation! Pls select again!")
+     print("Invalid operation ! Pls select again!")
      
