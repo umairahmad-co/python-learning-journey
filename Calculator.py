@@ -40,7 +40,7 @@ select = int(input("Select a operation from 1,2,3,4,5: "))
 number1 = int(input("Enter first number: "))
 number2 = int(input("Enter second number: "))
 
-#Step-3: Print the result 
+# Step-3: Print the result 
 
 if select == 1:
      print(number1, "+", number2, "= ", \
