@@ -1,6 +1,7 @@
 # python program to create a simple calculator
 
 # 3 steps to build calculator program
+
 #   1. functions for operations 
 #   2. user input 
 #   3. print result 
