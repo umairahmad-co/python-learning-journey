@@ -107,7 +107,7 @@ print(challenge.count('th'))  # 2`
 challenge = 'thirty days of python'
 print(challenge.endswith('on'))   # True
 print(challenge.endswith('tion'))  # False
-print(challenge.endswith('thon'))  # True
+print(challenge.endswith('tn'))  # True
 
 # expandtabs(): Replaces tab character with spaces, default tab size is 8. It takes tab size argument
 
